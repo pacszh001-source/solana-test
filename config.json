@@ -1,0 +1,4 @@
+{
+  "network": "devnet",
+  "rpc": "https://api.devnet.solana.com"
+}
